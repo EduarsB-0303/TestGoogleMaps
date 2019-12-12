@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rutas</string>
+    <string name="btnLocalizar">Mi ubicación</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
